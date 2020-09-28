@@ -1,0 +1,179 @@
+body {
+	 color: #4c4c4c;
+}
+
+.nav-item {
+	font-size: 12.5px;
+}
+
+.greetings {
+	padding-right: 5px;
+}
+
+.mail {
+	font-size: 15px;
+}
+
+.content {
+	padding-right: 10px;
+}
+
+.bg {
+	background-color: #F8F8FF;
+}
+
+.middle {
+	margin-left: 50px;	
+}
+
+.bgpop {
+	background-color : #a5f2e5;
+}  
+
+.slogo {
+	width: 40%;
+	margin-left: 105px;
+}
+
+
+
+/* ************************small screen****************************** */
+
+@media screen and (max-width:480px){
+
+    
+}
+
+/* ***************************medium screen******************************* */
+
+@media screen and (min-width:481px){
+
+.navbar {
+	padding-top: 40px;
+}
+.contact {
+	font-size: 14px;
+}
+
+.mail {
+	font-size: 12px;
+}
+
+.logo {
+	width: 150%;
+}
+
+.sub {
+	padding-top: 5px;
+	font-size: 9px;
+}
+
+.ceo {
+	margin-top: 120px;
+}
+
+.topleft {
+	margin-top: 220px;
+}
+
+.topright {
+	margin-top: 300px;
+}
+
+.classpic1 {
+    margin-top: 90px;	
+}
+
+.classpic2 {
+	margin-bottom: 50px;
+}
+
+    
+}
+
+
+/* ************************large screen****************************** */
+
+@media screen and (min-width:781px){
+	
+.navbar {
+	padding-top: 40px;
+}
+
+.navitem {
+	font-size: 20px;  /* font-size doesn't change. */
+}
+
+.logo {
+	width: 100%;
+}
+
+.contact {
+	font-size: 16px;
+}
+
+.mail {
+	font-size: 15px;
+}
+
+.sub {
+	margin-left: 20px;
+	font-size: 12px;
+	margin-top: 0px;
+}
+
+.greetings {
+	padding-left: 50px;
+}
+
+	
+.topleft {
+	margin-top: 50px;
+}
+
+.topright {
+	margin-top: 50px;
+}
+
+.bottompic {
+	margin-bottom: 30px;
+}
+
+.middle {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.sumi {
+	margin-top: 100px;
+}
+
+.msg {
+	margin-bottom: 70px;
+}
+
+.title {
+	padding-top: 50px;
+}
+
+.classpic1 {
+	margin-top: 100px;
+}
+
+.classpic2 {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.eplogo {
+	width: 50%;
+	margin-left: 140px;
+	margin-top: -20px;
+}
+
+.slogo {
+	width: 20%;
+	margin-left: 215px;
+}
+
+}
